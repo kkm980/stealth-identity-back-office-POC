@@ -14,7 +14,7 @@
     <a href="https://github.com/kkm980/stealth-identity-backoffice-poc"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="[https://github.com/kkm980/stealth-identity-backoffice-poc](https://stealth-identity-back-office-poc.vercel.app/)">View Demo</a>
+    <a href="https://stealth-identity-back-office-poc.vercel.app/">View Demo</a>
     &middot;
     <a href="https://github.com/kkm980/stealth-identity-backoffice-poc/issues/new?labels=bug&template=bug-report.md">Report Bug</a>
     &middot;
