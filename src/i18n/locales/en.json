@@ -1,0 +1,20 @@
+{
+  "dashboard": "Home",
+  "home": "Home",
+  "searchMenu": "Search Menu Options",
+  "roleManagement": "Role Management",
+  "userGroupManagement": "User Group Management",
+  "configurationManagement": "Configuration Management",
+  "enrollment": "Enrollment",
+  "identification": "Identification",
+  "manageIdentity": "Manage Identity",
+  "reports": "Reports",
+  "verification": "Verification",
+  "rulesConfiguration": "Rules Configuration",
+  "bulkImport": "Bulk Import",
+  "verificationStore": "Verification Store",
+  "verificationStatus": "Verification Status",
+  "identificationStatus": "Identification Status",
+  "diagnosticsTool": "Diagnostics Tool",
+  "pendingUpload": "Pending Upload"
+}

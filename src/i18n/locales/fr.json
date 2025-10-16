@@ -1,0 +1,20 @@
+{
+  "dashboard": "Tableau de bord",
+  "home": "Accueil",
+  "searchMenu": "Rechercher les Options du Menu",
+  "roleManagement": "Gestion des Rôles",
+  "userGroupManagement": "Gestion des Groupes d'Utilisateurs",
+  "configurationManagement": "Gestion de la Configuration",
+  "enrollment": "Inscription",
+  "identification": "Identification",
+  "manageIdentity": "Gérer l'Identité",
+  "reports": "Rapports",
+  "verification": "Vérification",
+  "rulesConfiguration": "Configuration des Règles",
+  "bulkImport": "Importation en Masse",
+  "verificationStore": "Magasin de Vérification",
+  "verificationStatus": "Statut de Vérification",
+  "identificationStatus": "Statut d'Identification",
+  "diagnosticsTool": "Outil de Diagnostic",
+  "pendingUpload": "Téléchargement en Attente"
+}

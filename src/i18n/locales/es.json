@@ -1,0 +1,20 @@
+{
+  "dashboard": "Tablero",
+  "home": "Inicio",
+  "searchMenu": "Buscar Opciones de Menú",
+  "roleManagement": "Gestión de Roles",
+  "userGroupManagement": "Gestión de Grupos de Usuarios",
+  "configurationManagement": "Gestión de Configuración",
+  "enrollment": "Inscripción",
+  "identification": "Identificación",
+  "manageIdentity": "Gestionar Identidad",
+  "reports": "Informes",
+  "verification": "Verificación",
+  "rulesConfiguration": "Configuración de Reglas",
+  "bulkImport": "Importación Masiva",
+  "verificationStore": "Almacén de Verificación",
+  "verificationStatus": "Estado de Verificación",
+  "identificationStatus": "Estado de Identificación",
+  "diagnosticsTool": "Herramienta de Diagnóstico",
+  "pendingUpload": "Carga Pendiente"
+}
